@@ -1,0 +1,27 @@
+Símbolo         Valor Decimal   Valor Hexadecimal
+-------         -------------   -----------------
+SOMA                       21                  15
+_S_LIMPA_VISOR_ITERATIVA       24                  18
+__OUTRO_LED                36                  24
+_S_LIMPA_VISOR_RAPIDA       47                  2F
+_S_ESCREVER_NO_VISOR      192                  C0
+__VOLTA_ESCR              192                  C0
+__SEGUNDO                 215                  D7
+__CONTINUA2               219                  DB
+__PROXIMO_LED             226                  E2
+__FIM_VISOR1              230                  E6
+__FIM_VISOR2              236                  EC
+_S_MULTIPLICAR            242                  F2
+__INICIO_LACO             252                  FC
+__NAO_SOMAR               258                 102
+__FIM_LACO                266                 10A
+__ALERTA_ESTOURO          280                 118
+_S_DIVIDIR                282                 11A
+__NAO_ZERO                288                 120
+__SUBTRAI_DIVISOR         316                 13C
+__BIT_ZERO                320                 140
+__INDICA_ESTOURO          334                 14E
+_S_LER_CARACTER           337                 151
+_S_LER_CARACTER_VISOR      356                 164
+_S_LER_CARACTERES_VISOR      383                 17F
+__FIM_LER                 411                 19B
