@@ -112,19 +112,6 @@ Estado da pilha ao entrar em uma sub-rotina com dois parâmetros:
 | Exercício 5 | "Cesar 2026" | Visor: `Cesar 2026` · `R0` = endereço do destino | ✅ |
 | Exercício 6 | Tecla `7` três vezes | Visor: `777` · `R0` = 55 | ✅ |
 
-<details>
-<summary><b>🔍 Testes das sub-rotinas da BibCesar</b></summary>
-
-<br>
-
-| Teste | Entradas | Resultado esperado |
-|---|---|---|
-| Limpar visor | Mensagem + limpeza rápida e iterativa | Visor em branco após cada limpeza |
-| Escrever no visor | 3 mensagens em LEDs 0, 12 e 32 | `Biblioteca  Cesar V8            IFSP` |
-| Multiplicar | 300 × 500 · 12 × 5 | `2:18928` com `V` = 1 · `0:60` com `V` = 0 |
-| Dividir | 150000 ÷ 500 · 100000 ÷ 7 · ÷ 0 · estouro | 300 r 0 · 14285 r 5 · `Z` = 1 · `V` = 1 |
-
-</details>
 
 ---
 
@@ -134,7 +121,7 @@ Trabalho **individual**: todas as tarefas foram realizadas por Gabriel Cabral Wa
 
 | 📝 A fazer | 🚧 Em andamento | ✅ Concluído |
 |---|---|---|
-| Trabalho avaliativo: calculadora no visor | Testes das sub-rotinas da BibCesar | Questões teóricas |
+| Trabalho avaliativo: calculadora no visor | — | Questões teóricas |
 | — | — | Exemplos 1 e 2 |
 | — | — | Exercícios 1 a 6 |
 | — | — | Repositório e relatório |
